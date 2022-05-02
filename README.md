@@ -1,10 +1,6 @@
-Hi 👋 My name is VICTOR MAFRA FELDHAUS
-======================================
+### Hi! I am Victor Mafra Feldhaus.
 
-Estudando Front-end
--------------------
-
-Estou Cursando Análise e Desenvolvimento de Sistemas
+- Estou Cursando Análise e Desenvolvimento de Sistemas
 
 * 🌍  I'm based in Blumenau - SC - Brazil
 * ✉️  You can contact me at [victorm.feldhaus@gmail.com](mailto:victorm.feldhaus@gmail.com)
