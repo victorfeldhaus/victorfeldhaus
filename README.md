@@ -3,7 +3,6 @@
 - Estou Cursando Análise e Desenvolvimento de Sistemas
 
 * 🌍  I'm based in Blumenau - SC - Brazil
-* ✉️  You can contact me at [victorm.feldhaus@gmail.com](mailto:victorm.feldhaus@gmail.com)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
