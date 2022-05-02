@@ -8,7 +8,6 @@ Estou Cursando Análise e Desenvolvimento de Sistemas
 
 * 🌍  I'm based in Blumenau - SC - Brazil
 * ✉️  You can contact me at [victorm.feldhaus@gmail.com](mailto:victorm.feldhaus@gmail.com)
-* 🧠  I'm learning Flutter
 
 ### Skills
 
